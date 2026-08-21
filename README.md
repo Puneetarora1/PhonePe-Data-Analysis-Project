@@ -22,10 +22,9 @@ The primary objectives of this project were to:
 
 ## 📂 Dataset Description
 The dataset was imported from **Microsoft Excel** with two tables:
-### Transaction Table
+#### Transaction Table
 Contains **300K+ records** with information related to PhonePe transactions, such as Date, Transaction Amount, Service Used, Payment Status
-
-### User Table
+#### User Table
 Contains **100K+ records** with information related to users, such as Username, Age, Joining Date
 
 ---
