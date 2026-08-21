@@ -81,7 +81,7 @@ The interactive dashboard provides the following key features:
 ---
 
 - ## 📷 Project Snapshot
-- ![Customer Segments](https://github.com/Puneetarora1/Insurance-Data-Analysis-Report/blob/main/Dashboard%20Snapshot.png)
+- ![Customer Segments](https://github.com/Puneetarora1/PhonePe-Data-Analysis-Project/blob/main/Report%20Snapshot.png)
 
 ---
 ```
