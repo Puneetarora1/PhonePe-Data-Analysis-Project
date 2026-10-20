@@ -65,10 +65,9 @@ The interactive dashboard provides the following key features:
 ## 💡 Key Insights
 - The dashboard recorded **300K+ total transactions** with a total transaction value of approximately **₹3.47 Billion**.
 - The overall successful transaction rate was **98.40%**, indicating strong transaction success performance.
-- **Loans** recorded the highest transaction value among the analyzed services, contributing approximately **₹2.5 Billion**.
+- Identified **Loans** as the leading service by transaction value, contributing approximately ₹2.5 billion in total transactions.
 - Among unsuccessful transactions, **Server Errors, Wrong PIN, and Insufficient Amount** were the major contributing reasons.
-- Users aged **26–58** represented approximately **three-fourths of total users**.
-
+- Identified users **aged between 26–58** as the dominant segment, accounting for approximately 75% of the total user base.
 ---
 
 ## 🚀 Business Recommendations
